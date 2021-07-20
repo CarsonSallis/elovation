@@ -1,6 +1,7 @@
 {
   "name": "Elovation",
   "description": "An open source Rails application for tracking multiplayer game scores",
+  "stack": "heroku-18",
   "repository": "https://github.com/CarsonSallis/elovation",
   "keywords": ["rails", "ruby"],
   "success_url": "/",
